@@ -8,7 +8,6 @@
 >>* [Validate Name](#Validate-Name)
 >* [Validate Emp Salary Details](#Validate-Emp-Salary-Details)
 >* [Validate Date of Birth and Joining](#Validate-Date of Birth and Joining)
->* [Validate Emp Salary](#Validate-Emp-Salary-Details)
 
 
 
