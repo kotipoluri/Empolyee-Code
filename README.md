@@ -1,13 +1,13 @@
 # Employee-Data-validation
-## 1. Introduction
-## 2. Algorithms
->* Main Program
->* Get Emp Personal Details
->* Get Emp Salary Details
->* Validate Emp Personal Details
->>* Validate Name
->* Validate Date of Birth and Date of Joining
->* Validate Emp Salary Details
+## 1. [Introduction](#Introduction)
+## 2. [Algorithms](#Algorithms)
+>* [Main Program](#Main-Program)
+>* [Get Emp Personal Details](#Get-Emp-Personal-Details)
+>* [Get Emp Salary Details](#Get-Emp-Salary-Details)
+>* [Validate Emp Personal Details](#Validate-Emp-Personal-Details)
+>>* [Validate Name](#Validate-Name)
+>* [Validate Emp Salary Details](#Validate-Emp-Salary-Details)
+>* [Validate Date of Birth & Date of Joining](#Validate-Date of Birth & Date of Joining)
 
 
 
