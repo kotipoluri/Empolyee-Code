@@ -7,7 +7,7 @@
 >* [Validate Emp Personal Details](#Validate-Emp-Personal-Details)
 >>* [Validate Name](#Validate-Name)
 >* [Validate Emp Salary Details](#Validate-Emp-Salary-Details)
->* [Validate Date of Birth & Date of Joining](#Validate-Date of Birth & Date of Joining)
+>* [Validate Date of Birth and Joining](#Validate-Date of Birth and Joining)
 
 
 
@@ -42,7 +42,7 @@ And also briefs you about the usage of Structures within structures and Pointers
 * In Validate salary we create another character array variable to take the salaray as string and check each character in the string, if the character is in AlphaNumeric ASCII range are not, if it is not in the specifed range then it returns -1 and produce error message and asks user to enter the salary again and again till the user gave the correct salary as INPUT.
 * In Validate Percentage we create here also another character array variable to store the percentage in the string form, after finishin up taking input from user, It checks the string size is two bytes or not and after that checks each character is in AlphaNumeric ASCII Range or not, If the it is not in Specifed Ranges then it returns -1 , produces error message and asks user to enter the percrntage correctly.
 * After finishing the salary and percentage Validations it calls Validate Date function.
-### Validate-Date of Birth and Date of joining
+### Validate-Date of Birth and joining
 * In this function we take date as three strings to check the every character in the date, month and year are in coorect size.
 * After checking date, month and year It checks individually the each and ever byte in date format are in the range of AlphaNumeric ASCII rang
 * And also checks the date, month and Year formats like date is in between (1 to 31), month (1 to 12) and year>999
