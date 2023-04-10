@@ -1,6 +1,7 @@
 # Employee-Data-validation
 ## 1. [Introduction](#Introduction)
 ## 2. [Algorithms](#Algorithms)
+## 3. [Flowchart](#Flowchart)
 >* [Main Program](#Main-Program)
 >* [Get Emp Personal Details](#Get-Emp-Personal-Details)
 >* [Get Emp Salary Details](#Get-Emp-Salary-Details)
@@ -50,3 +51,10 @@ And also briefs you about the usage of Structures within structures and Pointers
 enter the correct date, month and Year 
 ****
 After finishig all the data validation the Main Function will print the entered Details
+# Flowchart
+![image](https://user-images.githubusercontent.com/106804642/230824032-0eaccd39-ff82-49ad-a474-c89c0c1d8950.png)
+![image](https://user-images.githubusercontent.com/106804642/230824143-801b721e-c685-4f3b-a8e1-38c37d99dff7.png)
+![image](https://user-images.githubusercontent.com/106804642/230824179-d4f4e9b5-d691-4d8f-b805-224983dec792.png)
+![image](https://user-images.githubusercontent.com/106804642/230824213-c666541c-5e16-471c-a9a7-b17ec5481f6f.png)
+
+
